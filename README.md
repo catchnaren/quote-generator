@@ -1,3 +1,3 @@
-## Template
+## Quote Generator
 
-Basic web dev template
+A random quote generator app
